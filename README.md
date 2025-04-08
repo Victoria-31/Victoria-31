@@ -27,8 +27,8 @@ Here are some of my projects that I’m pretty proud of:
 - **Other Tools**: Git, GitHub, Figma, Wordpress
 
 ## Get in Touch 📬
-- **Email**: [Email](mailto:victoriafonteny@live.fr)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/victoria-fonteny/)
+- **[Email]**: (mailto:victoriafonteny@live.fr)
+- **[LinkedIn Profile]**: (https://www.linkedin.com/in/victoria-fonteny/)
 
 And check out my **[Portfolio on Netlify](https://victoriafonteny.netlify.app)** for more of my work!
 
