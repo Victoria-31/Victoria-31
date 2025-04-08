@@ -23,8 +23,8 @@ Here are some of my projects that I’m pretty proud of:
 ## Tech Skills 💻
 - **Front-end**: HTML, CSS, JavaScript, TypeScript, React
 - **Back-end**: Node.js, Express, REST APIs
-- **Databases**: SQL, MongoDB
-- **Other Tools**: Git, GitHub, Figma, Webflow
+- **Databases**: SQL, 
+- **Other Tools**: Git, GitHub, Figma, Wordpress
 
 ## Get in Touch 📬
 - **Email**: [Your Email](mailto:victoriafonteny@live.fr)
