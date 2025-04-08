@@ -18,7 +18,7 @@ Here are some of my projects that I’m pretty proud of:
   Get your geography knowledge tested!
 - **[Cookie Clicker Game](https://victoria-31.github.io/Projet1)** – A fun, interactive game where you click to earn cookies.
   It’s a perfect intro to coding! (Technologies used: HTML5, CSS3, vanilla JavaScript)
-- ** [Plantéo](https://github.com/Victoria-31/planteo)** – Plantéo is a plant management application with a back-end, featuring JWT authentication for secure user access.
+- **[Plantéo](https://github.com/Victoria-31/planteo)** – Plantéo is a plant management application with a back-end, featuring JWT authentication for secure user access.
 
 ## Tech Skills 💻
 - **Front-end**: HTML, CSS, JavaScript, TypeScript, React
